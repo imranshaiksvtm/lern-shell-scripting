@@ -1,7 +1,7 @@
-myname = 'Shaik Imran'
-myqualification = 'Btech'
+myname = ShaikImran
+myqualification = Btech
 
 
-echo "My Name is : " $myname;
+echo My Name is :  $myname
 
-echo "My Qualification is : " $myqualification;
+echo My Qualification is : $myqualification
