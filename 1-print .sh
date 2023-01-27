@@ -14,9 +14,10 @@ echo "***** Hello imran shaik ****"
 
 
 
-      echo -e "\e[31mMESSAGGE\E[0m"
-      echo -e "\e[32mMESSAGGE\E[0m"
-      echo -e "\e[33mMESSAGGE\E[0m"
-      echo -e "\e[34mMESSAGGE\E[0m"
-      echo -e "\e[35mMESSAGGE\E[0m"
-      echo -e "\e[36mMESSAGGE\E[0m"
+
+      echo -e "\e[31mIMRANE[0m"
+      echo -e "\e[32mRIZWAN\E[0m"
+      echo -e "\e[33mARSHIYA\E[0m"
+      echo -e "\e[34mASMATH\E[0m"
+      echo -e "\e[35mHIDAYAT\E[0m"
+      echo -e "\e[36mSMDHYD\E[0m"
