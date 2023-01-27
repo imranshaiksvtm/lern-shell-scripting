@@ -1,5 +1,5 @@
-myname = ShaikImran
-myqualification = Btech
+myname=ShaikImran
+myqualification=BTech
 
 
 echo My Name is :  $myname
