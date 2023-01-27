@@ -47,6 +47,6 @@ echo my mycollegename is        : $mycollegename
 
 
 
-      echo -e "\e[31mmyeducation branch is     : $myeducationbranch\E[0m"
-      echo -e "\e[32mmyrollnuber is            :  $myrollnuber\E[0m"
-      echo -e "\e[33mmy distric name is        :  $mycollegename\E[0m"
+      echo -e "\e[34mmyeducation branch is     :  $myeducationbranch\E[0m"
+      echo -e "\e[35mmyrollnuber is            :  $myrollnuber\E[0m"
+      echo -e "\e[36mmy distric name is        :  $mycollegename\E[0m"
