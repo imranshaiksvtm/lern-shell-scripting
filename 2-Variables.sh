@@ -41,10 +41,6 @@ myeducationbranch=EEE
 myrollnuber=116w55A0213
 mycollegename=SVTM
 
-
-echo my myeducation branch is   : "\e[31mmyeducationbranch\E[0m"
-echo my myrollnuber is          :  "\e[32mmyrollnuber\E[0m"
-echo my mycollegename is        : "\e[33mmycollegename\E[0m"
-
-
-
+echo my myeducation branch is   : $myeducationbranch
+echo my myrollnuber i           : $myrollnuber
+echo my mycollegename is        : $mycollegename
