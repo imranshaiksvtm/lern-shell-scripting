@@ -35,3 +35,12 @@ echo my sate name is      : $mystate
 echo my distric name is   : $mydistric
 echo my mandal name is    : $mymandal
 
+
+
+myeducationbranch=EEE
+myrollnuber=116w55A0213
+mycollegename=SVTM
+
+echo my myeducation branch is   : $myeducationbranch
+echo my myrollnuber i           : $myrollnuber
+echo my mycollegename is        : $mycollegename
