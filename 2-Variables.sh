@@ -23,3 +23,8 @@ echo My Country name is   : $mycountry
 echo my sate name is      : $mystate
 echo my distric name is   : $mydistric
 echo my mandal name is    : $mymandal
+
+      echo -e "\e[31mMy Country name is :  $mycountry\E[0m"
+      echo -e "\e[32mmy sate name is    :  $mystate\E[0m"
+      echo -e "\e[33mmy distric name is :  $mydistric\E[0m"
+      echo -e "\e[34mmy mandal name is  :  $mymandal\E[0m"
