@@ -12,6 +12,3 @@ shell-topics :
 6.exit status
 7.inputs
 8.quotes
-
-122123
-123232
