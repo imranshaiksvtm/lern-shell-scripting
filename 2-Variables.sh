@@ -67,5 +67,14 @@ echo my mycollegename is        : $mycollegename
       ADD=$((2+3))
    echo ADD - $ADD
 
-   MY NAAMENUBER=IMRAN013
-   echo my namme is  : $myname
+
+   mynative=kandur
+   mystate=Andhrapradesh
+   mycoolege=madanaplle
+   mymandal=somla
+
+
+  echo my native    is    : $mynative
+  echo my state     is    : $mystate
+  echo my college   is    : $mycollege
+  echo my mandal    is    : $mymandal
