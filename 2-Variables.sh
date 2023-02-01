@@ -82,3 +82,7 @@ echo my mycollegename is        : $mycollegename
   ADD=$((3+5+2))
 
   echo ADD -$ADD
+
+
+  SUP=((5-3))
+  echo SUP -$SUP
