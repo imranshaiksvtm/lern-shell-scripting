@@ -92,4 +92,5 @@ MUL=$((8*4))
 echo MUL -$MUL
 
 DIV=$((10/2))
+DIV=$((20/2))
 echo DIV -$DIV
