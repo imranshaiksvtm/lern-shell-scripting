@@ -70,7 +70,7 @@ echo my mycollegename is        : $mycollegename
 
    mynative=kandur
    mystate=Andhrapradesh
-   mycoolege=madanaplle
+   mycollege=madanaplle
    mymandal=somla
 
 
