@@ -87,3 +87,6 @@ echo my mycollegename is        : $mycollegename
   SUP=$((5-3))
   echo SUP -$SUP
 
+MUL=$((8*4))
+
+echo MUL -$MUL
