@@ -81,4 +81,4 @@ echo my mycollegename is        : $mycollegename
 
   ADD=$((3+5+2alias))
 
-  echo ADD -$add
+  echo ADD -$ADD
