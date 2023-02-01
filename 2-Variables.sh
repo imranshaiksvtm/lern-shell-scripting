@@ -68,4 +68,4 @@ echo my mycollegename is        : $mycollegename
    echo ADD - $ADD
 
    MY NAAME=IMRAN013
-   echo my $name
+   echo my namme is  : $myname
