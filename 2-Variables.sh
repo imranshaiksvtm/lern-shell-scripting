@@ -79,6 +79,6 @@ echo my mycollegename is        : $mycollegename
   echo my college   is    : $mycollege
   echo my mandal    is    : $mymandal
 
-  ADD=$((3+5+2alias))
+  ADD=$((3+5+2))
 
   echo ADD -$ADD
