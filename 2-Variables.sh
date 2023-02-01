@@ -90,3 +90,6 @@ echo my mycollegename is        : $mycollegename
 MUL=$((8*4))
 
 echo MUL -$MUL
+
+DIV=$((10/2))
+echo DIV -$DIV
