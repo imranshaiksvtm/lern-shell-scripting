@@ -59,7 +59,10 @@ echo my mycollegename is        : $mycollegename
 
 
 
-      #DATE=01-02-23-023
+      #DATE=2023-02-01
       DATE=$(date +%f)
 
-      echo today date is $DATE
+      echo  hey, today date is $DATE
+
+      ADD=$((2+3))
+   echo ADD - $ADD
