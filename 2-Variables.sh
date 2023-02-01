@@ -50,3 +50,16 @@ echo my mycollegename is        : $mycollegename
       echo -e "\e[34mmyeducation branch is     :  $myeducationbranch\E[0m"
       echo -e "\e[35mmyrollnuber is            :  $myrollnuber\E[0m"
       echo -e "\e[36mmy distric name is        :  $mycollegename\E[0m"
+
+
+
+
+
+
+
+
+
+      #DATE=01-02-23-023
+      DATE=$(date +%f)
+
+      echo today date is $DATE
