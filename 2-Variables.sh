@@ -60,7 +60,7 @@ echo my mycollegename is        : $mycollegename
 
 
       #DATE=2023-02-01
-      DATE=$(date +%f)
+      DATE=$(date +%F)
 
       echo  hey, today date is $DATE
 
