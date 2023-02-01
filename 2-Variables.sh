@@ -67,5 +67,5 @@ echo my mycollegename is        : $mycollegename
       ADD=$((2+3))
    echo ADD - $ADD
 
-   MY NAAME IS IMRAN013
-   echo my $NAME
+   MY NAAME=IMRAN013
+   echo my $name
